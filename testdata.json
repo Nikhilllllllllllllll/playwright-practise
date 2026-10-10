@@ -1,0 +1,12 @@
+{
+"username":"admin@gmail.com",
+"password":"admin@123",
+"name":"nikhil",
+"interest":["java","aws","python"],
+"address":{
+    "area":"south delhi",
+    "city":"New delhi"
+}
+
+
+}
